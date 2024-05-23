@@ -1,5 +1,5 @@
-// import { ComponentsTypes } from '@/types/ComponentsTypes'
-import React from 'react'
+
+import React from 'react';
 import Button from '../Button/Button';
 import Image from 'next/image';
 
@@ -15,7 +15,7 @@ const AdviceCard: React.FC<AdviceProps> = ({ idNumber, advice, onClick }) => {
             <div className='flex flex-col align-middle justify-center items-center'>
                 <h2 className='font-semibold text-[#00FF7F]'>Advice #{idNumber}</h2>
                 <p className='my-14 text-[#c3dde4]'>
-                    "{advice}"
+                    “{advice}”
                 </p>
                 <div className='mb-5'>
                     <Image className="w-full " src="/images/pattern-divider-desktop.svg" alt='sla' width={700} height={700} />
