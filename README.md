@@ -11,8 +11,8 @@ Users should be able to:
 
 
 ### Links
-- Solution URL:
-- Live Site URL:
+- Solution URL: ![GitHub](https://github.com/LeoAraujoAmorim/advice-generator-app?tab=readme-ov-file)
+- Live Site URL: ![vercel](https://advice-generator-app-three-lyart.vercel.app/)
 
 
 ### Built with
